@@ -8,14 +8,16 @@ Step 1:
 
 Edit the wpa_supplicant.conf file. Use your favorite editor such as nano or vi
 
-sudo nano /etc/wpa_supplicant/wpa_supplicant.conf
+	sudo nano /etc/wpa_supplicant/wpa_supplicant.conf
 
 Step 2:
 
 Append the below mentioned details at the end of file.
 Add your credentials for identity and password.
 
+
 network={
+
          ssid="BITS-STUDENT"
          scan_ssid=1
          mode=0
@@ -30,13 +32,13 @@ network={
 
 Step 3:
 
-press Ctrl+X > y > enter
+	press Ctrl+X > y > enter
 
 Step 4:
 
 Reboot your raspberry pi-
 
-sudo reboot -h now
+	sudo reboot -h now
 
 Step 5:
 
@@ -49,6 +51,6 @@ Step 6:
 
 Type in the login command line on command prompt or any ssh client like putty while connected to the wifi
 
-ssh pi@raspberrypi.local
+	ssh pi@raspberrypi.local
 
 type the username of your device in place of 'pi' if you have changed it to something else.
