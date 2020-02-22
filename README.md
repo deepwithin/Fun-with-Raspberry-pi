@@ -1,6 +1,9 @@
 #How to connect a Raspberry Pi to a WPA2 Enterprise Network
+
 #How to connect raspberry pi to BITS-STUDENT
+
 #How to connect raspberry pi to college wifi
+
 
 Many a times you wanted to work on Raspberry pi via your University intranet?
 Want to access it from anywhere campus-wide?
