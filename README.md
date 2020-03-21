@@ -37,7 +37,7 @@ network={
 
 Step 3:
 
-	press Ctrl+X > y > enter
+	press Ctrl+X -> y -> enter
 
 Step 4:
 
@@ -49,7 +49,8 @@ Step 5:
 
 Now after pi gets rebooted it will automatically get connected to your university wifi.
 By that time you can find your raspi IP address on your local network.
-You can use 'fing' app for android and scan your network.
+You can use 'fing' app for android as well as for windows and scan your network.
+https://www.fing.com/products/fing-desktop
 Otherwise 'Advanced IP scanner' for windows.
 
 Step 6:
