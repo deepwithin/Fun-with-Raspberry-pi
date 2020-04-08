@@ -1,6 +1,6 @@
 #How to connect a Raspberry Pi to a WPA2 Enterprise Network
 
-#How to connect raspberry pi to BITS-STUDENT
+#How to connect raspberry pi to BITS-STUDENT wifi
 
 #How to connect raspberry pi to college wifi
 
