@@ -10,7 +10,9 @@ Want to access it from anywhere campus-wide?
 Well Here's how its done.
 
 This tutorial ilustrates to add a (WPA2 Enterprise Network) WiFi to a 'headless raspberry pi' using terminal (on command prompt or any ssh client like putty). I assume you are already connected to raspberry pi using : ethernet( older versions without microUSB port ), Micro USB cable, or other physical connections.
-( Connecting for the first time? )
+
+
+	( Connecting for the first time? )
 	{
 		
 		After esablishing a physical connection with pi, type in the login command mentioned in 'step 6'.
